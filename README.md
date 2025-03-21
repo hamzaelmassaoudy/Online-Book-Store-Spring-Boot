@@ -49,7 +49,7 @@
   <h2>🚀 Installation Steps</h2>
   <ol>
     <li>Clone the repository:
-      <pre>git clone https://github.com/yourusername/Online-Book-Store-Spring-Boot.git</pre>
+      <pre>git clone https://github.com/hamzaelmassaoudy/Online-Book-Store-Spring-Boot.git</pre>
     </li>
     <li>Navigate to the project directory:
       <pre>cd Online-Book-Store-Spring-Boot</pre>
